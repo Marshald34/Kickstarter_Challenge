@@ -22,5 +22,7 @@ Conclusion:
   The most successful funding campaigns weren't requesting a lot of money. The sweetspot for asking for funds is Under $5,000. Campaigns that asked for $5,000 had a much higher chance of being successful (over 70% success rate).
     I would say some of the limitations of this dataset is that there isn't that much data. There are 8 years of data for plays in the dataset but there are only roughly a thousand campaigns ran for funding in that time span. 125 campaigns per year is a small dataset to me. If the data could go back further it might be easier to spot trends in the data.
     Another graph that we could create would be a pie graph of the successful Theater category. It would be beneficial to see what other theater categories had a successful kickstarter. To go along with the chart we could do a pivot table of all of the theater entries that would show the most successful category. After doing that chart, however, plays was the most successful Theater category.
+    
+    
     <img width="244" alt="Successful Theater Campaigns" src="https://user-images.githubusercontent.com/90280238/134777808-82a02f4a-1d30-4eb4-b61e-b52997cdc2f6.png">
 
